@@ -423,7 +423,7 @@ const Experience = () => {
                 <span className="text-white text-xs font-bold">2+</span>
               </div>
             </div>
-            <h2 className="text-6xl font-bold text-white ml-4 bg-gradient-to-r from-blue-400 via-purple-400 to-teal-400 bg-clip-text text-transparent">
+            <h2 className="text-5xl font-bold text-white ml-4 bg-gradient-to-r from-blue-400 via-purple-400 to-teal-400 bg-clip-text text-transparent">
               Professional Experience
             </h2>
           </div>
